@@ -1,4 +1,4 @@
-# Gericht-Restaurant
+# Gericht Restaurant
 
 In this project I built a Modern UI/UX Restaurant landing page with React and CSS. 
 During this project I learned the follwoing:
