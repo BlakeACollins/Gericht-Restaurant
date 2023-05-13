@@ -1,4 +1,4 @@
-#Gericht Restaurant
+# Gericht Restaurant
  
  Building a modern UX/UI. Made with React and CSS. In this project I learned the following: 
 - React functional components and their reusability
